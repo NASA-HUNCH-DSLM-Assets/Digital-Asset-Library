@@ -1,1 +1,27 @@
-# Add ignores here
+# Blender temporary files
+*.blend1
+*.blend2
+*.blend@
+*.blend~
+
+# Blender backups
+*.blend_backup
+
+# Texture baking caches
+*_baked.png
+*_preview.png
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE or editor folders
+.vscode/
+.idea/
+
+# Temporary exports
+EXPORT/
+tmp/
+temp/
