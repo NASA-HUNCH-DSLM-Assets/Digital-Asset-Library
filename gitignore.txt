@@ -1,0 +1,19 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Blender autosaves / temp
+*.blend1
+*.blend2
+*.tmp
+
+# Unity/Unreal build outputs (if any)
+[Bb]uild/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+
+# Logs
+*.log
