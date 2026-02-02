@@ -1,0 +1,17 @@
+# ============================
+#  NASA HUNCH DIGITAL ASSET LIBRARY - CODEOWNERS
+# ============================
+
+# Artist Team owns ALL of their work
+/03_SCHOOL_SUBMISSIONS/ARTIST_TEAM/*  @Artist-Team
+
+# Artist Team also owns all Required NASA Models
+/02_REQUIRED_MODELS/*  @Artist-Team
+
+# NASA Review Team controls the Shared Library
+/04_SHARED_LIBRARY/*  @NASA-Review-Team
+
+# Schools do NOT get write access; PR-only
+# (GitHub defaults handle this — no CODEOWNERS entry needed)
+
+# Repository owner automatically overrides everything
