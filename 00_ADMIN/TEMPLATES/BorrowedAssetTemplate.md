@@ -1,4 +1,4 @@
-# Borrowed Asset – [ASSET NAME] (v[VERSION])
+# Borrowed Asset Template
 
 **Borrowed By:** [Your Name], [School Name]  
 **Original Author:** [Original Creator Name + School]  
